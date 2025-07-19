@@ -5,7 +5,6 @@
 🔭 **Currently learning**: Data Analytics, Machine Learning, System Development  
 🌱 Passionate about system development and turning ideas into real-world tech solutions  
 📚 **Looking to contribute** to impactful tech projects during my internship period from August 2025 to January 2026  
-📺 **Portfolio**: [Portfolio Link](#)  
 📧 **Email**: amarzamani227@gmail.com  
 🔗 **LinkedIn**: [amarzamani](https://www.linkedin.com/in/amarzamani)
 
